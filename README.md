@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi there 👋  I'm Rodiat Isiaq
 
-<!--
-**Rodyhat/Rodyhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student, Full-stack Developer, and Tech Enthusiast passionate about building web applications, solving problems, and continuously learning.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science student at LAUTECH
+
+💻 Full-stack developer (PHP, JavaScript, MySQL)
+
+🌱 Currently learning React.js and Tailwind CSS
+
+🎯 I am a Full-stack Developer currently focusing on improving my frontend skills.
+
+🔭 Building exciting projects and tutoring others in tech
+
+💡 Interested in building scalable, clean, and impactful web solutions
+
+🤝 Open to contributing to open-source projects
+
+🛠 Passionate about helping junior developers debug and optimize their code while improving my own debugging skills
+
+🎯 My goal is to become a highly skilled software engineer
+
+🛠 Tech Stack
+
+Languages: PHP, JavaScript, MySQL
+
+Frontend: HTML, CSS, Bootstrap, React (learning)
+
+Backend: PHP
+
+Databases: MySQL
+
+Tools: Git, GitHub, Postman
+
+📈 GitHub Stats
+
+
+
+🌍 Connect with Me
+
+💼 https://www.linkedin.com/in/rodiat-isiaq/
+
+🐦 https://x.com/DevSprint03
+
+📩 Email: isiaqrodiat@gmail.com
+
+🔹 "Never give up!" 💪
